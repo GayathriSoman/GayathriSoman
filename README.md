@@ -19,3 +19,32 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gayathrisoman&show_icons=true&locale=en&layout=compact" alt="gayathrisoman" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gayathrisoman&show_icons=true&locale=en" alt="gayathrisoman" /></p>
+<h3 align="left">📄 Publications</h3>
+
+<ul>
+  <li>
+    <b>Human Guided Empathetic AI Agent for Mental Health Support Leveraging Reinforcement Learning-Enhanced Retrieval-Augmented Generation</b><br/>
+    Gayathri Soman, M. V. Judy, Aadhil Muhammad Abou<br/>
+    <i>Cognitive Systems Research</i>, Vol. 90, 2025, Article 101337<br/>
+    🔗 <a href="https://doi.org/10.1016/j.cogsys.2025.101337" target="_blank">DOI</a> |
+    <a href="https://www.sciencedirect.com/science/article/pii/S1389041725000178" target="_blank">Publisher Link</a>
+  </li>
+  <br/>
+
+  <li>
+    <b>Regret Emotion Based Reinforcement Learning for Path Planning in Autonomous Agents</b><br/>
+    Gayathri Soman, M. V. Judy, Sanjay Madria<br/>
+    <i>12th International Conference on Affective Computing and Intelligent Interaction (ACII)</i>, 2024, pp. 266–274<br/>
+    🔗 <a href="https://doi.org/10.1109/ACII63134.2024.00035" target="_blank">DOI</a>
+  </li>
+  <br/>
+
+  <li>
+    <b>Precision-Based Weighted Blending Distributed Ensemble Model for Emotion Classification</b><br/>
+    Gayathri Soman, M. V. Vivek, M. V. Judy, Elpiniki Papageorgiou, Vassilis C. Gerogiannis<br/>
+    <i>Algorithms</i>, Vol. 15, No. 2, 2022, Article 55<br/>
+    🔗 <a href="https://doi.org/10.3390/a15020055" target="_blank">DOI</a> |
+    <a href="https://www.mdpi.com/1999-4893/15/2/55" target="_blank">Open Access</a>
+  </li>
+</ul>
+
